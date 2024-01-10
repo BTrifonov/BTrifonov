@@ -3,7 +3,7 @@
 I am recently graduated Information Systems student, coming from Bulgaria and currently residing in Munich, Germany.
 - 🔭 I’m currently working on small personal projects.
 - 🌱 I’m currently revising Java and learning JavaScript, Python and C++.
-- - 👯 I’m open-minded to collaborate on different projects.
+- 👯 I’m open-minded to collaborate on different projects.
 
 
 <!--
