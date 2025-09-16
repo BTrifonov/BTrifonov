@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am recently graduated Information Systems student, coming from Bulgaria and currently residing in Switzerland.
-- 🔭 I’m currently working on small personal projects.
+I am a M.Sc. Artificial Intelligence (AI) Student at the University of Zurich (UZH)
+- 🔭 I’m currently working on personal projects.
 - 🌱 I’m currently revising Java and learning JavaScript, Python and C++.
 - 👯 I’m open-minded to collaborate on different projects.
 
